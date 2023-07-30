@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Scaling Web Applications <br>🤝 I’m looking to collaborate any full-stack project<br>✍️ I’m learning Flutter and Solidity <br>📨 You may contact me via email at bayinganaedwin@gmail.com<br>⚡ I develop web apps durin the day, and musical melodies during the night 🎸
+🔭 I’m currently working on Scaling Web Applications <br>🤝 I’m looking to collaborate any full-stack project<br>🎯 I’m learning Flutter and Solidity <br>📨 You can contact me via email at bayinganaedwin@gmail.com<br>⚡ I develop web apps durin the day, and musical melodies during the night 🎸
 
 
 # 💻 Tech Stack:
