@@ -1,5 +1,5 @@
 # Hi ✌️, I'm Edwin:
-👨‍💻 I’m currently working on Scaling Web and Mobile Applications <br>🤝 I’m looking to collaborate any Full-stack project<br>🎯 I’m learning Flutter and Solidity <br>📨 You can contact me via email at bayinganaedwin@gmail.com<br>⚡ Fun fact: I develop web apps during the day, and create musical melodies during the night 🎸  
+👨‍💻 I’m currently working on Scaling Web and Mobile Applications <br>🤝 Looking to collaborate any Full-stack project<br>🎯 Upskilling in Flutter and Solidity <br>📨 You can contact me via email at bayinganaedwin@gmail.com<br>⚡ Fun fact: I develop web apps during the day, and create musical melodies during the night 🎸  
 
 
 # 💻 Tech Stack:
